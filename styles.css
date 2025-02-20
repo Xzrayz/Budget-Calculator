@@ -7,7 +7,7 @@
 
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #121212;
+    background-color: #7cdfec;
     color: #ddd;
     min-height: 100vh;
     display: flex;
@@ -18,7 +18,7 @@ body {
 
 /* Container */
 .container {
-    background-color: #1a1a1a;
+    background-color: #3d6975;
     width: 100%;
     max-width: 500px;
     padding: 20px;
