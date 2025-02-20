@@ -85,7 +85,8 @@ button {
 }
 
 button:hover {
-    background-color: #004b99;
+    background-color: #64afff;
+    color: black;
 }
 
 /* Result Section */
